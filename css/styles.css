@@ -1,0 +1,36 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-image: url('images/background.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background: rgba(241, 241, 241, 0.8);
+}
+
+nav {
+    text-align: center;
+    background: rgba(142, 0, 0, 0.8);
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+    color: #333;
+}
+
+h2 {
+    color: #333;
+}
